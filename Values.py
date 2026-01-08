@@ -1,0 +1,1 @@
+DieselPreis = 1.47
